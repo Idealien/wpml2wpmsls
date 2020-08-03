@@ -1,12 +1,12 @@
 <?php
 /*
-	Plugin Name: WPML 2 WPMSLS
-	Plugin URI: wordpress.org/plugins/wpml2wpmsls
-	Description: Convert posts from an existing WPML multilingual site via WP Import/Export to a WPMS (Network) with Language Switcher so easily it feels like magic!
-	Author: Jamie Oastler
-	Version: 0.2.0
-	Author URI: http://idealienstudios.com/
-	GitHub Plugin URI: idealien/wpml2wpmsls
+Plugin Name: WPML 2 WPMSLS
+Plugin URI: wordpress.org/plugins/wpml2wpmsls
+Description: Convert posts from an existing WPML multilingual site via WP Import/Export to a WPMS (Network) with Language Switcher so easily it feels like magic!
+Author: Jamie Oastler
+Version: 0.2.0
+Author URI: http://idealienstudios.com/
+GitHub Plugin URI: idealien/wpml2wpmsls
 */
 
 
